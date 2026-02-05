@@ -1,0 +1,14 @@
+{
+  "name": "test-build",
+  "version": "0.0.0",
+  "description": "test build",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
